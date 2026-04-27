@@ -6,6 +6,7 @@ public class Second_git {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello Everyone");
+		System.out.println("Everyone are happy");
 
 	}
 
