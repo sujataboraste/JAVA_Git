@@ -7,7 +7,7 @@ public class Second_git {
 		
 		System.out.println("Hello Everyone");
 		System.out.println("Everyone are happy");
-		System.out.println("Hello A branch");
+	
 
 	}
 
